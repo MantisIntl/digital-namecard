@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
-item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+N:Leonardo;Moreno;;;
+FN: Moreno  Leonardo 
+ORG:Mantis Intl;
+TITLE:Founder\Director 
+EMAIL;type=INTERNET;type=WORK;type=pref:leonardo.moreno@mantisintl.com
+TEL;type=WORK;type=VOICE:+44 742 899 5653
+item1.ADR;type=WORK;type=pref:;;103 Mount Street\nLondon\,;;; W1K 2TJ;London
+item1.X-ABADR:UK
+item2.URL;type=pref:mantisintl.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
